@@ -162,7 +162,7 @@ const styles = StyleSheet.create({
 
   imagemPrincipal:{
     width: '100%',
-    height:450
+    height:600
   },
 
   footerMenu:{
