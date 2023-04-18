@@ -13,7 +13,7 @@ The app was built using React Native, a popular JavaScript framework for develop
 - `react-native-screens`: A library for managing the app's screens.
 
 ## Getting Started
-To get started with the app, clone the repository and run `npm install to install` the necessary dependencies. Then, run `npx expo start` to start the app.
+To get started with the app, clone the repository and run `npm install` to install the necessary dependencies. Then, run `npx expo start` to start the app.
 
 ## Features
 The app allows users to:
